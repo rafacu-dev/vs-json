@@ -1,6 +1,6 @@
   {
   "status": 200,
-  "message":[{
+  "films":[{
     "name": "nombre del video 1",
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
     "video": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).mp4",
