@@ -1,11 +1,21 @@
   {
   "status": 200,
-  "films":[{
-    "name": "nombre del video 1",
+  "films":[
+    {
+    "name": "Baskin",
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
     "video": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).mp4",
     "srt": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).srt",
     "poster": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/poster.jpg",
     "sinopsis": "Un escuadrón de policías desprevenidos cruzarán una puerta al infierno cuando se topan con una misa Negra en un edificio abandonado."
-    }]
+    },
+    {
+    "name": "Baskin",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
+    "video": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).mp4",
+    "srt": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).srt",
+    "poster": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Ant%20Man%20(2015)/poster.jpg",
+    "sinopsis": "Armado con la asombrosa capacidad de reducir su tamaño a la dimensiones de un insecto, el estafador Scott Lang (Paul Rudd) debe sacar a relucir al héroe que lleva dentro y ayudar a su mentor, el doctor Hank Pym (Michael Douglas), a proteger de una nueva generación de amenazas el secreto que se esconde tras el traje de Ant-Man, con un casco que le permite comunicarse con las hormigas. A pesar de los obstáculos aparentemente insuperables que les acechan, Pym y Lang deben planear y llevar a cabo un atraco para intentar salvar al mundo"
+    }
+   ]
 }
