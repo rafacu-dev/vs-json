@@ -1,2 +1,26 @@
-{
-}
+[
+  {
+    "name": "nombre del video 1",
+    "url": "url del video 1",
+    "video": "nombre del archivo de video 1",
+    "srt": "nombre del archivo de subtítulos 1",
+    "poster": "nombre del archivo de imagen de portada 1",
+    "sinopsis": "sinopsis del video 1"
+  },
+  {
+    "name": "nombre del video 2",
+    "url": "url del video 2",
+    "video": "nombre del archivo de video 2",
+    "srt": "nombre del archivo de subtítulos 2",
+    "poster": "nombre del archivo de imagen de portada 2",
+    "sinopsis": "sinopsis del video 2"
+  },
+  {
+    "name": "nombre del video 3",
+    "url": "url del video 3",
+    "video": "nombre del archivo de video 3",
+    "srt": "nombre del archivo de subtítulos 3",
+    "poster": "nombre del archivo de imagen de portada 3",
+    "sinopsis": "sinopsis del video 3"
+  }
+]
