@@ -1,26 +1,10 @@
 [
   {
     "name": "nombre del video 1",
-    "url": "url del video 1",
-    "video": "nombre del archivo de video 1",
-    "srt": "nombre del archivo de subtítulos 1",
-    "poster": "nombre del archivo de imagen de portada 1",
-    "sinopsis": "sinopsis del video 1"
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
+    "video": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).mp4",
+    "srt": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/Baskin%20(2015).srt",
+    "poster": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/poster.jpg",
+    "sinopsis": "Un escuadrón de policías desprevenidos cruzarán una puerta al infierno cuando se topan con una misa Negra en un edificio abandonado."
   },
-  {
-    "name": "nombre del video 2",
-    "url": "url del video 2",
-    "video": "nombre del archivo de video 2",
-    "srt": "nombre del archivo de subtítulos 2",
-    "poster": "nombre del archivo de imagen de portada 2",
-    "sinopsis": "sinopsis del video 2"
-  },
-  {
-    "name": "nombre del video 3",
-    "url": "url del video 3",
-    "video": "nombre del archivo de video 3",
-    "srt": "nombre del archivo de subtítulos 3",
-    "poster": "nombre del archivo de imagen de portada 3",
-    "sinopsis": "sinopsis del video 3"
-  }
 ]
