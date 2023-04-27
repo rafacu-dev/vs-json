@@ -72,17 +72,164 @@
     "details": ""
     },
     {
-    "name": "Scream VI",
-    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Scream.VI.2023/",
-    "filters": "2023,Pelicula",
-    "image": "",
-    "details": ""
-    },
-    {
     "name": "Plane",
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Plane%20(2023)/",
     "filters": "2023,Pelicula",
     "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Plane%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Operation Fortune Ruse de Guerre",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Operation%20Fortune%20Ruse%20de%20Guerre%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Operation%20Fortune%20Ruse%20de%20Guerre%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Murder Mystery 2",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Murder%20Mystery%202%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Murder%20Mystery%202%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Missing",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Missing%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Missing%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Magic Mikes Las Dance",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Magic%20Mikes%20Las%20Dance%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Magic%20Mikes%20Las%20Dance%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Luthen The Fallen Sun",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Luthen%20The%20Fallen%20Sun%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Luthen%20The%20Fallen%20Sun%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Lobo Feroz",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Lobo%20Feroz%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Lobo%20Feroz%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Knock at the Cabin",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Knock%20at%20the%20Cabin%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Knock%20at%20the%20Cabin%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "JUNG E",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/JUNG%20E%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/JUNG%20E%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Inside",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Inside%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Inside%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Infinity Pool",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Infinity%20Pool%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Infinity%20Pool%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Fenomenas",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Fenomenas%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Fenomenas%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Eres tu",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Eres%20tu%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Eres%20tu%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Dog Gone",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Dog%20Gone%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Dog%20Gone%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Creed III",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Creed.III%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Creed.III%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Consecration",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Consecration%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Consecration%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Cocaine Bear",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Cocaine%20Bear%202023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Cocaine%20Bear%202023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Champions",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Champions%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Champions%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Boston Strangler",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Boston%20Strangler%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Boston%20Strangler%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Ant-Man",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Ant-Man.and.the.Wasp.Quantumania.2023/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Ant-Man.and.the.Wasp.Quantumania.2023/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "A Man Called Otto",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/A%20Man%20Called%20Otto%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/A%20Man%20Called%20Otto%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "A Good Person",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/A.Good.Person%202023/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/A.Good.Person%202023/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "65",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/65%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/65%20(2023)/poster.jpg",
     "details": ""
     }
    ]
