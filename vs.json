@@ -2,32 +2,88 @@
   "status": 200,
   "films":[
     {
-    "name": "Dragon",
-    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
-    "filters": "",
-    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/poster.jpg",
-    "details": "Un escuadrón de policías desprevenidos cruzarán una puerta al infierno cuando se topan con una misa Negra en un edificio abandonado."
+    "name": "Your Place or Mine",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Your%20Place%20or%20Mine%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Your%20Place%20or%20Mine%20(2023)/poster.jpg",
+    "details": ""
     },
     {
-    "name": "Prueba",
-    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
-    "filters": "",
-    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/poster.jpg",
-    "details": "Un escuadrón de policías desprevenidos cruzarán una puerta al infierno cuando se topan con una misa Negra en un edificio abandonado."
+    "name": "You People",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/You%20People%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/You%20People%20(2023)/poster.jpg",
+    "details": ""
     },
     {
-    "name": "Prueba",
-    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
-    "filters": "",
-    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/poster.jpg",
-    "details": "Un escuadrón de policías desprevenidos cruzarán una puerta al infierno cuando se topan con una misa Negra en un edificio abandonado."
+    "name": "The Strays",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/The%20Strays%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/The%20Strays%20(2023)/poster.jpg",
+    "details": ""
     },
     {
-    "name": "Prueba",
-    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/",
-    "filters": "",
-    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2015/Baskin%20(2015)/poster.jpg",
-    "details": "Un escuadrón de policías desprevenidos cruzarán una puerta al infierno cuando se topan con una misa Negra en un edificio abandonado."
+    "name": "The Last Kingdom Seven Kings Must Die",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/The.Last.Kingdom.Seven.Kings.Must.Die.(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/The.Last.Kingdom.Seven.Kings.Must.Die.(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Tetris",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Tetris%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Tetris%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Teen Wolf The Movie",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Teen%20Wolf%20The%20Movie%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Teen%20Wolf%20The%20Movie%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Still Time",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Still%20Time%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Still%20Time%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Somebody I Used To Know",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Somebody%20I%20Used%20To%20Know%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Somebody%20I%20Used%20To%20Know%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Shazam Fury of the Gods",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Shazam.Fury.of.the.Gods%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Shazam.Fury.of.the.Gods%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Sharper",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Sharper%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Sharper%20(2023)/poster.jpg",
+    "details": ""
+    },
+    {
+    "name": "Scream VI",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Scream.VI.2023/",
+    "filters": "2023,Pelicula",
+    "image": "",
+    "details": ""
+    },
+    {
+    "name": "Plane",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Plane%20(2023)/",
+    "filters": "2023,Pelicula",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Plane%20(2023)/poster.jpg",
+    "details": ""
     }
    ]
 }
