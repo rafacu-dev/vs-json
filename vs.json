@@ -1,5 +1,6 @@
   {
   "status": 200,
+  "filters":["Peliculas","Paginas Web","Cuba","IA","ChatBot","2023"],
   "films":[
     {
     "name": "Apklis",
@@ -7,6 +8,41 @@
     "filters": "Paginas Web|Cuba",
     "image": "https://cdn-images-1.medium.com/v2/resize:fit:600/1*joKaQ3pEckf5AIb2hGrudA.png",
     "details": "Apklis también conocida como la Play Store cubana, es una tienda online de aplicaciones desarrollada por la UCI para dispositivos Android.Tiene su versión web y tambien su versión de aplicación para android.Está diseñada para descargar todas las aplicaciones cubanas y las más populares del resto del mundo utilizando de la red de datos de ETECSA, Nauta u otro medio de navegación nacional."
+    },
+    {
+    "name": "Open Assistant",
+    "url": "https://open-assistant.io/es/",
+    "filters": "IA|ChatBot|Paginas Web",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOmP-w-ctHxjh5D3JIbF0_MnCpQ8sc-9DxsBQaeP3w8GWzg4JZ767u2A7tshxvXjTJg4",
+    "details": "Open Assistant es un asistente de Inteligencia Artificial de código abierto que utiliza y entrena modelos de lenguaje avanzados para entender y responder a los humanos. Alternativa gratuita a ChatGPT, 100% funcional desde Cuba."
+    },
+    {
+    "name": "John Wick 4",
+    "url": "https://www.picta.cu/movie/john-wick-4-2023-04-26-00-13-38-456411",
+    "filters": "2023|Peliculas",
+    "image": "https://www.picta.cu/imagen/img_eaVuE16.jpeg_350x200",
+    "details": "El marqués Vincent de Gramont pretende matar a John Wick para afianzar su poder en la Orden Suprema. Sin embargo, John tratará de adelantarse a cada uno de sus movimientos hasta lograr enfrentarse cara a cara con su peor enemigo."
+    },
+    {
+    "name": "Peter Pan & Wendy",
+    "url": "https://www.picta.cu/movie/peter-pan-wendy-2023-04-28-11-27-10-974223",
+    "filters": "2023|Peliculas",
+    "image": "https://www.picta.cu/imagen/img_aSVBXdB.jpeg_350x200",
+    "details": "Remake en imagen real del film de Disney Peter Pan."
+    },
+    {
+    "name": "Ghosted",
+    "url": "https://www.picta.cu/movie/ghosted-2023-04-21-16-16-28-554232",
+    "filters": "2023|Peliculas",
+    "image": "https://www.picta.cu/imagen/img_sRH1HSf.jpeg_350x200",
+    "details": "El encuentro con una persona especial se convierte en una auténtica aventura."
+    },
+    {
+    "name": "Super Mario Bros: La película",
+    "url": "https://www.picta.cu/movie/super-mario-bros-pelicula-2023-04-22-20-35-18-569016",
+    "filters": "2023|Peliculas",
+    "image": "https://www.picta.cu/imagen/img_G0gQbqX.jpeg_350x200",
+    "details": "Un fontanero llamado Mario viaja por un laberinto subterráneo con su hermano, Luigi, intentando salvar a una princesa capturada."
     },
     {
     "name": "Your Place or Mine",
@@ -41,7 +77,7 @@
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Tetris%20(2023)/",
     "filters": "2023|Peliculas",
     "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Tetris%20(2023)/poster.jpg",
-    "details": ""
+    "details": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers (Taron Egerton) y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro."
     },
     {
     "name": "Teen Wolf The Movie",
@@ -181,7 +217,7 @@
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Creed.III%20(2023)/",
     "filters": "2023|Peliculas",
     "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Creed.III%20(2023)/poster.jpg",
-    "details": ""
+    "details": "Adonis Creed, aún dominando el mundo del boxeo, prospera en su carrera y en su vida familiar, pero un amigo de la infancia y antiguo prodigio del boxeo reaparece tras salir de la cárcel y está ansioso por demostrar que merece otra oportunidad."
     },
     {
     "name": "Consecration",
@@ -195,7 +231,7 @@
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Cocaine%20Bear%202023)/",
     "filters": "2023|Peliculas",
     "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/Cocaine%20Bear%202023)/poster.jpg",
-    "details": ""
+    "details": "Un varipinto grupo formado por policías, delincuentes, turistas y adolescentes converge en un bosque de Georgia donde un oso negro de 500 libras se vuelve loco después de ingerir cocaína sin querer, que cayó del avión de un narcotraficante."
     },
     {
     "name": "Champions",
@@ -237,7 +273,7 @@
     "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/65%20(2023)/",
     "filters": "2023|Peliculas",
     "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/65%20(2023)/poster.jpg",
-    "details": ""
+    "details": "Después de un catastrófico accidente en un planeta desconocido, el piloto Mills (Adam Driver) descubre rápidamente que realmente está varado en la Tierra… hace 65 millones de años. Ahora, con solo una oportunidad de rescate, Mills y la otra única superviviente, Koa (Ariana Greenblatt), deberán abrirse camino a través del desconocido territorio plagado con peligrosas criaturas prehistóricas en una épica lucha por sobrevivir."
     }
    ]
 }
