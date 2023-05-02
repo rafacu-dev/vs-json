@@ -17,6 +17,13 @@
     "details": "Open Assistant es un asistente de Inteligencia Artificial de código abierto que utiliza y entrena modelos de lenguaje avanzados para entender y responder a los humanos. Alternativa gratuita a ChatGPT, 100% funcional desde Cuba."
     },
     {
+    "name": "Super Mario Bros: La película",
+    "url": "https://www.picta.cu/movie/super-mario-bros-pelicula-2023-04-22-20-35-18-569016",
+    "filters": "2023|Peliculas",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-YceooY4jpZPa00x-zmmceGOU10ddWjU_xvSMY8y3Nw_4ijNP_XYgWNSlOadUmIDlcB4",
+    "details": "Un fontanero llamado Mario viaja por un laberinto subterráneo con su hermano, Luigi, intentando salvar a una princesa capturada."
+    },
+    {
     "name": "John Wick 4",
     "url": "https://www.picta.cu/movie/john-wick-4-2023-04-26-00-13-38-456411",
     "filters": "2023|Peliculas",
@@ -36,13 +43,6 @@
     "filters": "2023|Peliculas",
     "image": "https://www.picta.cu/imagen/img_sRH1HSf.jpeg_350x200",
     "details": "El encuentro con una persona especial se convierte en una auténtica aventura."
-    },
-    {
-    "name": "Super Mario Bros: La película",
-    "url": "https://www.picta.cu/movie/super-mario-bros-pelicula-2023-04-22-20-35-18-569016",
-    "filters": "2023|Peliculas",
-    "image": "https://www.picta.cu/imagen/img_G0gQbqX.jpeg_350x200",
-    "details": "Un fontanero llamado Mario viaja por un laberinto subterráneo con su hermano, Luigi, intentando salvar a una princesa capturada."
     },
     {
     "name": "Your Place or Mine",
