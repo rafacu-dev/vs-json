@@ -3,18 +3,18 @@
   "filters":["Películas","Páginas Web","Cuba","IA","ChatBot","2023"],
   "films":[
     {
-    "name": "Apklis",
-    "url": "https://apklis.cu/",
-    "filters": "Páginas Web|Cuba",
-    "image": "https://cdn-images-1.medium.com/v2/resize:fit:600/1*joKaQ3pEckf5AIb2hGrudA.png",
-    "details": "Apklis también conocida como la Play Store cubana, es una tienda online de aplicaciones desarrollada por la UCI para dispositivos Android.Tiene su versión web y tambien su versión de aplicación para android.Está diseñada para descargar todas las aplicaciones cubanas y las más populares del resto del mundo utilizando de la red de datos de ETECSA, Nauta u otro medio de navegación nacional."
-    },
-    {
     "name": "Open Assistant",
     "url": "https://open-assistant.io/es/",
     "filters": "IA|ChatBot|Páginas Web",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOmP-w-ctHxjh5D3JIbF0_MnCpQ8sc-9DxsBQaeP3w8GWzg4JZ767u2A7tshxvXjTJg4",
     "details": "Open Assistant es un asistente de Inteligencia Artificial de código abierto que utiliza y entrena modelos de lenguaje avanzados para entender y responder a los humanos. Alternativa gratuita a ChatGPT, 100% funcional desde Cuba."
+    },
+    {
+    "name": "AIR",
+    "url": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/AIR%202023/",
+    "filters": "2023|Películas",
+    "image": "https://visuales.uclv.cu/Peliculas/Extranjeras/2023/AIR%202023/poster.jpg",
+    "details": "Narra la increíble y revolucionaria asociación entre Michael Jordan -un novato en ese momento- y la incipiente sección de baloncesto de Nike que revolucionó el mundo del deporte y la cultura contemporánea con la marca Air Jordan. Cuenta la atrevida apuesta que definió la carrera de un equipo poco convencional, la visión implacable de una madre que conoce el valor del enorme talento de su hijo y el fenómeno del baloncesto que se convertiría en el más grande de todos los tiempos."
     },
     {
     "name": "Super Mario Bros: La película",
